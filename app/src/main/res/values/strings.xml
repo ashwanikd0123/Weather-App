@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="open_weather_map_api_key">418b2d332f3259a983ca52dda71ca7d8</string>
+    <string-array name="city_array">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+    </string-array>
+</resources>
